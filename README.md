@@ -1,6 +1,6 @@
-# [WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
+# <p align="center"> [WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) </p>
 
-<img src="assets/icon.png" width="250">
+<p align="center"> <img  src="assets/icon.png" width="250"> </p>
 
 **_Real-time communication for the web_**
 

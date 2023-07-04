@@ -60,8 +60,8 @@ class _CustomTileState extends State<CustomTile> {
                 fillColor:
                     Theme.of(context).colorScheme.primary.withOpacity(0.1),
                 focusedBorder: OutlineInputBorder(
-                    borderSide:
-                        BorderSide(color: Theme.of(context).primaryColor),
+                    borderSide: BorderSide(
+                        color: Theme.of(context).colorScheme.primary),
                     borderRadius: BorderRadius.circular(5)),
                 enabledBorder: OutlineInputBorder(
                     borderSide: BorderSide.none,
